@@ -1,6 +1,6 @@
 # 🚀 My VS Code Settings 🚀
 
-## Step
+### Steps
 
 1. Copy the content from my `settings.json` file
 2. press `f1` on your VS Code and search for "Preferences: Open User Settings (JSON)"
